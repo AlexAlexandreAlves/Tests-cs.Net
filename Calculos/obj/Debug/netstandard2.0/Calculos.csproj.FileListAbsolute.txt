@@ -1,0 +1,9 @@
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\bin\Debug\netstandard2.0\Calculos.deps.json
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\bin\Debug\netstandard2.0\Calculos.dll
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\bin\Debug\netstandard2.0\Calculos.pdb
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.csprojAssemblyReference.cache
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.AssemblyInfo.cs
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.dll
+C:\Users\alex.alves\Desktop\Projetos c#\teste\Calculos\obj\Debug\netstandard2.0\Calculos.pdb
