@@ -10,7 +10,7 @@ namespace Calculos
 
         public int Multiplicao(int operador1, int operador2) => operador1 * operador2;
 
-        public int Divisao(int dividendo, int divisor)
+        public double Divisao(double dividendo, double divisor)
         {
 
             if (divisor != 0)

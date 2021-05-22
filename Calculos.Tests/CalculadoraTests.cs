@@ -70,6 +70,22 @@ namespace Calculos.Tests
 
         }
 
+         [TestMethod]
+
+        public void Divisao_ResultaFracao()
+
+        {
+
+            Calculadora c = new Calculadora();
+
+            var resultado = c.Divisao(1, 10);
+
+            //Verifica se o resultado é igual a 10
+
+            Assert.AreEqual(0.1, resultado);
+
+        }
+
 
     }
 }
