@@ -70,7 +70,7 @@ namespace Calculos.Tests
 
         }
 
-         [TestMethod]
+        [TestMethod]
 
         public void Divisao_ResultaFracao()
 
@@ -83,6 +83,30 @@ namespace Calculos.Tests
             //Verifica se o resultado é igual a 10
 
             Assert.AreEqual(0.1, resultado);
+
+        }
+
+        [DataTestMethod]
+
+        [DataRow(1)]
+
+        [DataRow(2)]
+
+        [DataRow(3)]
+
+        [DataRow(5)] //Gera erro
+
+        public void RestoDivisao_DeveRetornarZero(int value)
+
+        {
+
+            Calculadora c = new Calculadora();
+
+            var resultado = c.RestoDivisao(12, value);
+
+            //Verifica se o resto da divisão é 0
+
+            Assert.AreEqual(0, resultado.resto);
 
         }
 
